@@ -5,4 +5,4 @@ Java-based healthy recipe converter that analyzes ingredients to suggest nutriti
   <img src="assets/recipeChanger.gif" alt="App Demo" width="500"/>
 </p>
 
-Thanks for see my repo!😄
+Thanks for seeing my repo!😄
